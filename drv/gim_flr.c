@@ -21,7 +21,7 @@
  */
 
 #include <linux/pci.h>
-#include <linux/pci-aspm.h>
+// #include <linux/pci-aspm.h>
 #include <linux/delay.h>
 
 #include "gim_debug.h"
