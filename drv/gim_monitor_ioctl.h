@@ -24,6 +24,7 @@
 #define _GPU_IOV_MODULE__MONITOR_IOCTL_H
 
 #include <linux/cdev.h>
+#include <linux/time.h>
 #include "gim_adapter.h"
 #include "gim_monitor.h"
 

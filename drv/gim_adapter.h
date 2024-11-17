@@ -28,6 +28,7 @@
 #include <linux/timer.h>
 #include <linux/hrtimer.h>
 #include <linux/workqueue.h>
+#include <linux/time.h>
 #include "gim_fb.h"
 #include "gim_pci.h"
 #include "gim_flr.h"
